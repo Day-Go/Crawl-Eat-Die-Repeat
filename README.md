@@ -1,6 +1,8 @@
 # Crawl-Eat-Die-Repeat
 Physics-based evolutionary simulation for agents without a control system. 
 
+![alt text](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat/tree/main/demo.gif?raw=true)
+
 ## About
 This is a hobby project that explores how agents can develop complex behaviours without having a central controller.
 The agents are procedurally generated from hexadecimal string genomes which are subject to evolutionary mechasims over many iterations. 
@@ -14,7 +16,10 @@ In the future other fitness functions will be added that also evaluate energy us
 - Physics environment with Pymunk
 - Graphics with Pygame
 - GUI with Dear PyGui
-- Schemata analysis tool (in progress)
+- Schemata analysis tool
+
+## GUI
+![alt text](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat/tree/main/gui.png?raw=true)
 
 ## To do
 - [ ] Implement genetic algorithm operations
