@@ -1,7 +1,7 @@
 # Crawl-Eat-Die-Repeat
 Physics-based evolutionary simulation for agents without a control system. 
 
-![alt text](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat/tree/main/demo.gif?raw=true)
+![alt text](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat/blob/main/media/demo.gif?raw=true)
 
 ## About
 This is a hobby project that explores how agents can develop complex behaviours without having a central controller.
@@ -19,7 +19,7 @@ In the future other fitness functions will be added that also evaluate energy us
 - Schemata analysis tool
 
 ## GUI
-![alt text](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat/tree/main/gui.png?raw=true)
+![alt text](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat/blob/main/media/gui.PNG?raw=true)
 
 ## To do
 - [ ] Implement genetic algorithm operations
